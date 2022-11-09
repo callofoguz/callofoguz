@@ -1,8 +1,8 @@
-### Hi there 👋
+###  👋
 
 
 
-Here are some ideas to get you started:
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!+I'm+Oguz+;I'm+Software+Developer)](https://git.io/typing-svg)
 
